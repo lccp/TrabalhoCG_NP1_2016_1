@@ -1,0 +1,4 @@
+﻿control + p = juntar filhos com pai
+
+control + j = unir 2 elementos
+
